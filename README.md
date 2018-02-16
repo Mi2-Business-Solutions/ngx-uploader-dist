@@ -6,6 +6,10 @@ Angular 2+ File Uploader (this includes also Angular 5)
 
 http://ngx-uploader.com
 
+#### <a name="note-dist"></a> Note
+This is a dist for https://github.com/Mi2-Business-Solutions/ngx-uploader
+related to https://github.com/bleenco/ngx-uploader/issues/425
+Remove the package reference after the issue gets resolved.
 #### <a name="question"></a> Got a Question or Problem?
 
 Do not open issues for general support questions as we want to keep GitHub issues for bug reports and feature requests. You've got much better chances of getting your question answered on [Stack Overflow](https://stackoverflow.com) where the questions should be tagged with tag `ngx-uploader`.
